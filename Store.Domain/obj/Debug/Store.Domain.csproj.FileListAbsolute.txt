@@ -18,3 +18,9 @@ D:\ASP.Net MVC\Project\Store.Domain\bin\Debug\System.Web.WebPages.xml
 D:\ASP.Net MVC\Project\Store.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
 D:\ASP.Net MVC\Project\Store.Domain\bin\Debug\System.Web.WebPages.Razor.xml
 D:\ASP.Net MVC\Project\Store.Domain\obj\Debug\Store.Domain.csproj.CopyComplete
+D:\ASP.Net MVC\Project\Store\Store.Domain\bin\Debug\Store.Domain.dll
+D:\ASP.Net MVC\Project\Store\Store.Domain\bin\Debug\Store.Domain.pdb
+D:\ASP.Net MVC\Project\Store\Store.Domain\obj\Debug\Store.Domain.csproj.CoreCompileInputs.cache
+D:\ASP.Net MVC\Project\Store\Store.Domain\obj\Debug\Store.Domain.csproj.CopyComplete
+D:\ASP.Net MVC\Project\Store\Store.Domain\obj\Debug\Store.Domain.dll
+D:\ASP.Net MVC\Project\Store\Store.Domain\obj\Debug\Store.Domain.pdb

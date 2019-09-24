@@ -34,3 +34,5 @@ D:\ASP.Net MVC\Project\Store.UnitTests\bin\Debug\Castle.Core.xml
 D:\ASP.Net MVC\Project\Store.UnitTests\bin\Debug\Moq.xml
 D:\ASP.Net MVC\Project\Store.UnitTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 D:\ASP.Net MVC\Project\Store.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ASP.Net MVC\Project\Store\Store.UnitTests\obj\Debug\Store.UnitTests.dll
+D:\ASP.Net MVC\Project\Store\Store.UnitTests\obj\Debug\Store.UnitTests.pdb
