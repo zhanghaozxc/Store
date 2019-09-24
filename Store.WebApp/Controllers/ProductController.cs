@@ -16,5 +16,10 @@ namespace Store.WebApp.Controllers
         {
             this.repos = productsRepos;
         }
+
+        public ViewResult List()
+        {
+            return View(repos.Products);
+        }
     }
 }
