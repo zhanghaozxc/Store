@@ -1,0 +1,7 @@
+D:\ASP.Net MVC\Project\Store\Store.DebugConsole\obj\Debug\Store.DebugConsole.csprojAssemblyReference.cache
+D:\ASP.Net MVC\Project\Store\Store.DebugConsole\obj\Debug\Store.DebugConsole.csproj.CoreCompileInputs.cache
+D:\ASP.Net MVC\Project\Store\Store.DebugConsole\bin\Debug\Store.DebugConsole.exe.config
+D:\ASP.Net MVC\Project\Store\Store.DebugConsole\bin\Debug\Store.DebugConsole.exe
+D:\ASP.Net MVC\Project\Store\Store.DebugConsole\bin\Debug\Store.DebugConsole.pdb
+D:\ASP.Net MVC\Project\Store\Store.DebugConsole\obj\Debug\Store.DebugConsole.exe
+D:\ASP.Net MVC\Project\Store\Store.DebugConsole\obj\Debug\Store.DebugConsole.pdb

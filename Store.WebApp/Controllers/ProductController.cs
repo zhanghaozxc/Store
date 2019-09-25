@@ -5,21 +5,19 @@ using System.Web;
 using System.Web.Mvc;
 using Store.Domain;
 using Store.Domain.Abstract;
+//using Store.WebApp.Models;
 
 namespace Store.WebApp.Controllers
 {
     public class ProductController : Controller
     {
-        private IProductsRepos repos;
+        //private readonly IProductsRepos repos;
 
-        public ProductController(IProductsRepos productsRepos)
-        {
-            this.repos = productsRepos;
-        }
+        public IProductsRepos ProductsRepos { get; set; }
 
         public ViewResult List()
         {
-            return View(repos.Products);
+            return View(ProductsRepos.Products);
         }
     }
 }

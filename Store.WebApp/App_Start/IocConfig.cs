@@ -8,6 +8,8 @@ using System.Web;
 using System.Web.Mvc;
 using Autofac;
 using Autofac.Integration.Mvc;
+using Store.Domain.Entities;
+using Store.Domain.Concrete;
 
 namespace Store.WebApp.App_Start
 {
@@ -16,7 +18,20 @@ namespace Store.WebApp.App_Start
         public static void ConfigIoc()
         {
             var builder = new ContainerBuilder();
-            builder.RegisterControllers(typeof(MvcApplication).Assembly).PropertiesAutowired();
+            builder
+                .RegisterControllers(typeof(MvcApplication).Assembly)
+                .PropertiesAutowired();
+
+            //Mock<IProductsRepos> mock = new Mock<IProductsRepos>();
+
+            //mock.Setup(m => m.Products).Returns(new List<Product>
+            //{
+            //    new Product { Name ="Football", Price = 25 },
+            //    new Product { Name = "Cake", Price = 12},
+            //    new Product { Name = "Orange", Price = 1.99M}
+            //});
+            builder.RegisterInstance<IProductsRepos>(new InMemoryProductsRepos())
+                   .PropertiesAutowired();
 
             var container = builder.Build();
             DependencyResolver.SetResolver(new AutofacDependencyResolver(container));
