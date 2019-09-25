@@ -142,3 +142,8 @@ D:\ASP.Net MVC\Project\Store\Store.WebApp\bin\IKVM.OpenJDK.XML.WebServices.dll
 D:\ASP.Net MVC\Project\Store\Store.WebApp\bin\IKVM.OpenJDK.XML.XPath.dll
 D:\ASP.Net MVC\Project\Store\Store.WebApp\bin\IKVM.Runtime.dll
 D:\ASP.Net MVC\Project\Store\Store.WebApp\bin\IKVM.Runtime.JNI.dll
+D:\ASP.Net MVC\Project\Store\Store.WebApp\bin\Autofac.dll
+D:\ASP.Net MVC\Project\Store\Store.WebApp\bin\Autofac.Integration.Mvc.dll
+D:\ASP.Net MVC\Project\Store\Store.WebApp\bin\Autofac.pdb
+D:\ASP.Net MVC\Project\Store\Store.WebApp\bin\Autofac.xml
+D:\ASP.Net MVC\Project\Store\Store.WebApp\bin\Autofac.Integration.Mvc.xml

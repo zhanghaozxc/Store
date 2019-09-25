@@ -15,3 +15,4 @@ namespace Store.Domain
         public string Category { get; set; }
     }
 }
+
