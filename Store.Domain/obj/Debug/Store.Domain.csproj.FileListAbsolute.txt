@@ -24,4 +24,3 @@ D:\ASP.Net MVC\Project\Store\Store.Domain\obj\Debug\Store.Domain.csproj.CoreComp
 D:\ASP.Net MVC\Project\Store\Store.Domain\obj\Debug\Store.Domain.csproj.CopyComplete
 D:\ASP.Net MVC\Project\Store\Store.Domain\obj\Debug\Store.Domain.dll
 D:\ASP.Net MVC\Project\Store\Store.Domain\obj\Debug\Store.Domain.pdb
-D:\ASP.Net MVC\Project\Store\Store.Domain\obj\Debug\Store.Domain.csprojAssemblyReference.cache

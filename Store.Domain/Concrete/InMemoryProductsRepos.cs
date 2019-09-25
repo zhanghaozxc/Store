@@ -22,6 +22,5 @@ namespace Store.Domain.Concrete
                 };
             }
         }
-
     }
 }

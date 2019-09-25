@@ -29,3 +29,8 @@ D:\ASP.Net MVC\Project\Store\Store.UnitTest\obj\Debug\Store.UnitTest.csproj.Copy
 D:\ASP.Net MVC\Project\Store\Store.UnitTest\obj\Debug\Store.UnitTest.dll
 D:\ASP.Net MVC\Project\Store\Store.UnitTest\obj\Debug\Store.UnitTest.pdb
 D:\ASP.Net MVC\Project\Store\Store.UnitTest\bin\Debug\Store.UnitTest.dll.config
+D:\ASP.Net MVC\Project\Store\Store.UnitTest\bin\Debug\Autofac.dll
+D:\ASP.Net MVC\Project\Store\Store.UnitTest\bin\Debug\Autofac.Integration.Mvc.dll
+D:\ASP.Net MVC\Project\Store\Store.UnitTest\bin\Debug\Autofac.pdb
+D:\ASP.Net MVC\Project\Store\Store.UnitTest\bin\Debug\Autofac.xml
+D:\ASP.Net MVC\Project\Store\Store.UnitTest\bin\Debug\Autofac.Integration.Mvc.xml
