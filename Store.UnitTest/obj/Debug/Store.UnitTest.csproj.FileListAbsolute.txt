@@ -28,3 +28,4 @@ D:\ASP.Net MVC\Project\Store\Store.UnitTest\obj\Debug\Store.UnitTest.csproj.Core
 D:\ASP.Net MVC\Project\Store\Store.UnitTest\obj\Debug\Store.UnitTest.csproj.CopyComplete
 D:\ASP.Net MVC\Project\Store\Store.UnitTest\obj\Debug\Store.UnitTest.dll
 D:\ASP.Net MVC\Project\Store\Store.UnitTest\obj\Debug\Store.UnitTest.pdb
+D:\ASP.Net MVC\Project\Store\Store.UnitTest\bin\Debug\Store.UnitTest.dll.config
