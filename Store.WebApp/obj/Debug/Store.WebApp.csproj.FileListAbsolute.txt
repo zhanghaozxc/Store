@@ -147,3 +147,8 @@ D:\ASP.Net MVC\Project\Store\Store.WebApp\bin\Autofac.Integration.Mvc.dll
 D:\ASP.Net MVC\Project\Store\Store.WebApp\bin\Autofac.pdb
 D:\ASP.Net MVC\Project\Store\Store.WebApp\bin\Autofac.xml
 D:\ASP.Net MVC\Project\Store\Store.WebApp\bin\Autofac.Integration.Mvc.xml
+D:\ASP.Net MVC\Project\Store\Store.WebApp\bin\Store.Domain.dll.config
+D:\ASP.Net MVC\Project\Store\Store.WebApp\bin\EntityFramework.dll
+D:\ASP.Net MVC\Project\Store\Store.WebApp\bin\EntityFramework.SqlServer.dll
+D:\ASP.Net MVC\Project\Store\Store.WebApp\bin\EntityFramework.xml
+D:\ASP.Net MVC\Project\Store\Store.WebApp\bin\EntityFramework.SqlServer.xml

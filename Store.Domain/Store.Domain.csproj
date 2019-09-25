@@ -76,6 +76,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Abstract\IProductsRepos.cs" />
+    <Compile Include="Concrete\EFDbContext.cs" />
     <Compile Include="Concrete\InMemoryProductsRepos.cs" />
     <Compile Include="Entities\Product.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

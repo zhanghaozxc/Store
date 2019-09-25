@@ -34,3 +34,6 @@ D:\ASP.Net MVC\Project\Store\Store.UnitTest\bin\Debug\Autofac.Integration.Mvc.dl
 D:\ASP.Net MVC\Project\Store\Store.UnitTest\bin\Debug\Autofac.pdb
 D:\ASP.Net MVC\Project\Store\Store.UnitTest\bin\Debug\Autofac.xml
 D:\ASP.Net MVC\Project\Store\Store.UnitTest\bin\Debug\Autofac.Integration.Mvc.xml
+D:\ASP.Net MVC\Project\Store\Store.UnitTest\bin\Debug\EntityFramework.dll
+D:\ASP.Net MVC\Project\Store\Store.UnitTest\bin\Debug\Store.Domain.dll.config
+D:\ASP.Net MVC\Project\Store\Store.UnitTest\bin\Debug\EntityFramework.xml

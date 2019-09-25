@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Store.Domain.Abstract;
-using Store.Domain;
+using Store.Domain.Entities;
 
 namespace Store.Domain.Concrete
 {
