@@ -13,15 +13,28 @@ namespace Store.DebugConsole
         {
            using (var ctx = new EFDbContext())
             {
-                var product = new Product()
+                for (int i = 0; i < 20; i++)
                 {
-                    Name = "apple",
-                    Price = 1.99m,
-                    Description = "this is an apple",
-                    Category = "food",
-                };
+                    var product1 = new Product()
+                    {
+                        Name = $"orange_{i}",
+                        Price = i + 1m,
+                        Description = $"this is an apple{i}",
+                        Category = "food"
+                    };
 
-                ctx.Products.Add(product);
+                    var product2 = new Product()
+                    {
+                        Name = $"shoes_{i}",
+                        Price = i + 50m,
+                        Description = $"this is a shoes",
+                        Category = "shoes",
+                    };
+
+                    ctx.Products.Add(product1);
+                    ctx.Products.Add(product2);
+                }
+                
                 ctx.SaveChanges();
             }
 
