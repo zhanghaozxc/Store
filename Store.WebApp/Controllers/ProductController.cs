@@ -13,11 +13,23 @@ namespace Store.WebApp.Controllers
     {
         //private readonly IProductsRepos repos;
 
-        public IProductsRepos ProductsRepos { get; set; }
+        private IProductsRepos repos;
+
+        public int PageSize = 2;
+
+        public ProductController(IProductsRepos productsRepos)
+        {
+            this.repos = productsRepos;
+        }
 
         public ViewResult List()
         {
-            return View(ProductsRepos.Products);
+            return View(
+                repos
+                .Products
+                .OrderBy(p => p.ProductId)
+                .Skip((PageSize - 1)* PageSize)
+                .Take(PageSize));
         }
     }
 }

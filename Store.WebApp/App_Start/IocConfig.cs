@@ -24,13 +24,14 @@ namespace Store.WebApp.App_Start
 
             //Mock<IProductsRepos> mock = new Mock<IProductsRepos>();
 
+
             //mock.Setup(m => m.Products).Returns(new List<Product>
             //{
             //    new Product { Name ="Football", Price = 25 },
             //    new Product { Name = "Cake", Price = 12},
             //    new Product { Name = "Orange", Price = 1.99M}
             //});
-            builder.RegisterInstance<IProductsRepos>(new InMemoryProductsRepos())
+            builder.RegisterInstance<EFDbContext>(new EFDbContext())
                    .PropertiesAutowired();
 
             var container = builder.Build();

@@ -12,11 +12,12 @@ namespace Store.Domain.Concrete
 {
     public class EFProductRepos : IProductsRepos
     {
-        private EFDbContext context = new EFDbContext();
+        //private EFDbContext context = new EFDbContext();
+        public EFDbContext Context { get; set; }
 
         public IEnumerable<Product> Products
         {
-            get { return context.Products; }
+            get { return Context.Products; }
         }
     }
 }
